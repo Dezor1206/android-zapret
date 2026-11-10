@@ -1,0 +1,5 @@
+git add .
+git commit -m "Initial commit of Flowseal Zapret Mobile"
+git remote add origin https://github.com/Dezor1206/flowseal-zapret-android.git
+git branch -M main
+git push -u origin main
